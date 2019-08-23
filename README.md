@@ -1,6 +1,6 @@
 # Prototype / Perf Board Generator for Draw.IO
 
-Generates a perfbaord for electronic prototyping of circuits that can be
+Generates a perfboard for electronic prototyping of circuits that can be
 pasted into draw.io as a Shape.  The through-holes on the generated board
 each have their own connector.
 
